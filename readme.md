@@ -1,4 +1,4 @@
-# CodeRunner App
+# CodeJudge App
 
 A desktop app that lets you write and run code in **Java**, **C++**, or **Python** — using a **JavaFX frontend** and **Flask backend**.
 
