@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+pip-log.txt
+
+# Flask
+instance/
+*.sqlite3
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Gradle
+.gradle/
+build/
+out/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Others
+*.swp
